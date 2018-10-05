@@ -1,2 +1,2 @@
-# IEEEwebsite
+# IEEE DTU Website
 
